@@ -1,0 +1,35 @@
+.registration {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    height: 160vh;
+    background-image: url('file:///C:/Users/harke/OneDrive/Desktop/image.jpeg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .registration_heading {
+    margin-bottom: 50px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+  }
+  
+  .registration_form {
+    border: 2px solid white;
+    padding: 60px;
+    background-color: rgba(27, 32, 28, 0.8);
+    color: white;
+    width: 50%;
+    max-width: 100%;
+  }
+  
+  .form-control{
+    font-size: 30px !important;
+  padding: 10px !important;
+  }
+.form-label{
+    font-size: 30px !important;
+  padding: 10px !important;
+}
